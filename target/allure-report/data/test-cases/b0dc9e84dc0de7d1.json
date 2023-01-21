@@ -1,0 +1,53 @@
+{
+  "uid" : "b0dc9e84dc0de7d1",
+  "name" : "failedRegistration",
+  "historyId" : "RegistrationTest:RegistrationTest#failedRegistration",
+  "time" : {
+    "duration" : 3123
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b9ebac29c2c9df78",
+      "name" : "System out",
+      "source" : "b9ebac29c2c9df78.txt",
+      "type" : "text/plain",
+      "size" : 263
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0dc9e84dc0de7d1.json",
+  "parameterValues" : [ ]
+}

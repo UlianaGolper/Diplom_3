@@ -1,0 +1,53 @@
+{
+  "uid" : "cd2edbc7fd53aa29",
+  "name" : "getPersonalAccountTest",
+  "historyId" : "GetPersonalAccountTest:GetPersonalAccountTest#getPersonalAccountTest",
+  "time" : {
+    "duration" : 3163
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f212b91f7fb285c2",
+      "name" : "System out",
+      "source" : "f212b91f7fb285c2.txt",
+      "type" : "text/plain",
+      "size" : 270
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "GetPersonalAccountTest"
+  }, {
+    "name" : "testClass",
+    "value" : "GetPersonalAccountTest"
+  }, {
+    "name" : "package",
+    "value" : "GetPersonalAccountTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd2edbc7fd53aa29.json",
+  "parameterValues" : [ ]
+}

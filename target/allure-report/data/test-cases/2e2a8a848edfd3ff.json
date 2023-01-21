@@ -1,0 +1,53 @@
+{
+  "uid" : "2e2a8a848edfd3ff",
+  "name" : "successfulLogInFromRestorePasswordPage",
+  "historyId" : "LogInTest:LogInTest#successfulLogInFromRestorePasswordPage",
+  "time" : {
+    "duration" : 3344
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f7d0710a1b6f16cd",
+      "name" : "System out",
+      "source" : "f7d0710a1b6f16cd.txt",
+      "type" : "text/plain",
+      "size" : 258
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "LogInTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LogInTest"
+  }, {
+    "name" : "package",
+    "value" : "LogInTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e2a8a848edfd3ff.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "232f90caa300fcd4",
+  "name" : "returnToTheMainPageTestByLogo",
+  "historyId" : "ReturnToMainPageTest:ReturnToMainPageTest#returnToTheMainPageTestByLogo",
+  "time" : {
+    "duration" : 4030
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "268a80bb5c080480",
+      "name" : "System out",
+      "source" : "268a80bb5c080480.txt",
+      "type" : "text/plain",
+      "size" : 268
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "ReturnToMainPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ReturnToMainPageTest"
+  }, {
+    "name" : "package",
+    "value" : "ReturnToMainPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "232f90caa300fcd4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "6d0a92ba6e29709e",
+  "name" : "logOutTest",
+  "historyId" : "LogOutTest:LogOutTest#logOutTest",
+  "time" : {
+    "duration" : 4033
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e941c8e7ec6d4d05",
+      "name" : "System out",
+      "source" : "e941c8e7ec6d4d05.txt",
+      "type" : "text/plain",
+      "size" : 258
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "LogOutTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LogOutTest"
+  }, {
+    "name" : "package",
+    "value" : "LogOutTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d0a92ba6e29709e.json",
+  "parameterValues" : [ ]
+}
