@@ -1,0 +1,189 @@
+{
+  "LogInTest:LogInTest#successfulLogInFromRestorePasswordPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e2a8a848edfd3ff",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3344
+      }
+    } ]
+  },
+  "RegistrationTest:RegistrationTest#successfulRegistration" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3f3ecf499fc2bb9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3265
+      }
+    } ]
+  },
+  "LogInTest:LogInTest#successfulLogInFromMainPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f0175d88637d8bd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3397
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#tabsSwitchingTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30c5b56accbeea30",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4202
+      }
+    } ]
+  },
+  "LogInTest:LogInTest#successfulLogInFromRegistrationPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b87b4f0466d4aef",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2946
+      }
+    } ]
+  },
+  "LogOutTest:LogOutTest#logOutTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d0a92ba6e29709e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4033
+      }
+    } ]
+  },
+  "RegistrationTest:RegistrationTest#failedRegistration" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0dc9e84dc0de7d1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3123
+      }
+    } ]
+  },
+  "GetPersonalAccountTest:GetPersonalAccountTest#getPersonalAccountTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd2edbc7fd53aa29",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3163
+      }
+    } ]
+  },
+  "ReturnToMainPageTest:ReturnToMainPageTest#returnToTheMainPageTestByLogo" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "232f90caa300fcd4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4030
+      }
+    } ]
+  },
+  "ReturnToMainPageTest:ReturnToMainPageTest#returnToTheMainPageTestByConstructorButton" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2572b895168650ff",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4920
+      }
+    } ]
+  },
+  "LogInTest:LogInTest#successfulLogInFromPersonalAccountPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d25c56999d164bf",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3044
+      }
+    } ]
+  }
+}

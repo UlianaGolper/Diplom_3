@@ -1,0 +1,53 @@
+{
+  "uid" : "30c5b56accbeea30",
+  "name" : "tabsSwitchingTest",
+  "historyId" : "ConstructorTest:ConstructorTest#tabsSwitchingTest",
+  "time" : {
+    "duration" : 4202
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ab897f7c6bf896e8",
+      "name" : "System out",
+      "source" : "ab897f7c6bf896e8.txt",
+      "type" : "text/plain",
+      "size" : 263
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "package",
+    "value" : "ConstructorTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30c5b56accbeea30.json",
+  "parameterValues" : [ ]
+}
